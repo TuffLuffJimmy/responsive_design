@@ -1,12 +1,15 @@
-
-
 body {
-     margin: 30px;
      background-color: rgb(177, 187, 197);
+     margin-left: 15px;
 }
 
 .mycontainer {
-     border: 1px solid green;
+     /* border: 1px solid green;
+     margin-left: 10px; */
+}
+
+.mynav {
+     background-color: rgb(124, 142, 160);
 }
 
 .myrow {
