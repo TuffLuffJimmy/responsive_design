@@ -1,5 +1,13 @@
+/* 
+          color palette 
+     dark grey      - #4D4646;
+     medium grey    - #5B5656;
+     seafoam        - #7FCD91;
+     light grey     - #F5EAEA; 
+*/
+
 body {
-     background-color: rgb(177, 187, 197);
+     background-color: #7FCD91;
      margin-left: 15px;
 }
 
@@ -9,7 +17,22 @@ body {
 }
 
 .mynav {
-     background-color: rgb(124, 142, 160);
+     background-color: #7FCD91 !important;
+     color: #4d4646 !important;
+}
+
+#jumbo {
+     background-color: #F5EAEA;
+     border-radius: 10px;
+     -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+     -ms-border-radius: 10px;
+     -o-border-radius: 10px;
+}
+
+.myp {
+     padding: 5px;
+     color: #4D4646;
 }
 
 .myrow {
@@ -17,5 +40,11 @@ body {
 }
 
 .mycol {
+     background-color: #F5EAEA;
      border: 3px solid blue;
+     border-radius: 10px;
+     -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+     -ms-border-radius: 10px;
+     -o-border-radius: 10px;
 }
