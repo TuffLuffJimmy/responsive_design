@@ -1,0 +1,18 @@
+
+
+body {
+     margin: 30px;
+     background-color: rgb(177, 187, 197);
+}
+
+.mycontainer {
+     border: 1px solid green;
+}
+
+.myrow {
+     border: 1px dotted red;
+}
+
+.mycol {
+     border: 3px solid blue;
+}
